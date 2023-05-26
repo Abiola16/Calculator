@@ -13,6 +13,8 @@ body{
 .calculator{
     width: 20.5%;
     height: 87vh;
+    min-width: 20.5%;
+    min-height: 87vh;
     background-color: black ;
     border-radius: 2.8rem;
     position: relative;
